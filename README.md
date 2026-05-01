@@ -24,3 +24,4 @@ The most important commands used were:
 I will split the results up into sections so that there is a better understanding.
 ## Weekly Trends
 When concussions were analyzed by each week I observed that as the weeks went on the later in the season the higher the rates of concussions would be and remain quite constant. 
+<img src="https://github.com/reginaldelam04/NFL-Concussion-Data-Project/blob/main/Graph%201.png" alt="Graph1" width="200"
