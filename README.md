@@ -23,6 +23,12 @@ The most important commands used were:
 # Results of Project
 I will split the results up into sections so that there is a better understanding.
 ## Weekly Trends
-When concussions were analyzed by each week I observed that as the weeks went on the later in the season the higher the rates of concussions would be and remain quite constant. 
+When concussions were analyzed by each week I observed that as the weeks went on the later in the season the higher the rates of concussions would be and remain quite constant. There is a decrease in the late weeks because less teams are playing when its the playoffs and even before that if you already made it to the playoffs or your team isn't going to make it teams usually decide to rest their starters who have been playing all season. Concluding this data I gathered that their are higher rates during the mid to later end of the season do to wear and tear from the beginning of the season that breaks down your body and makes it weaker against hits later in the season leading to more concussed players.
 
 <img src="https://github.com/reginaldelam04/NFL-Concussion-Data-Project/blob/main/Graph%201.png" alt="Graph1" width="400">
+
+## Team analysis
+After this I compared the number of concussed players to the teams they played for and who had the highest amount. In this I found that the Minnesota Vikings had the highest amount by a longshot and the New York Jets and New York Giants were tied for 2nd and 3rd after them. After this I began to start to try to understand why and this is because of one of their lack of talent to protect their QB's leading to more impacts on them and their backline of offense as the Center for the Vikings showed up on three diffrent occasions with a concussion and even their QB showing up at least once on the list. Also, the Vikings playstyle on deffense is heavy in blitzing which is sending more people then regularly to try to sack the QB which leads to more impact from their defensive players to the bigger offensive linemen they are going against. From the other side the Giants also had a playstyle problem as their QB has been evaluated for a concussion 5 times in 10 weeks but, this is due to his playstyle he likes to lead in with his head when getting hit by someone. The Jets have this issue because of skill they finished with one of the worst records in the NFL and when you play bad you probably get hit more.
+
+<img src="https://github.com/reginaldelam04/NFL-Concussion-Data-Project/blob/main/graph2.png" alt="Graph1" width="400">
+##
