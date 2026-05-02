@@ -2,6 +2,9 @@ Loop# NFL-Concussion-Data-Project
 ## Description
 My project analyses NFL injuries to identify the patterns of concussions through positions, teams, weeks and game situations. Using R to help understand what players are more at risk and when they happen more frequently over time.
 
+## Background
+A concussion is a brain injury caused by a hit to the head, that affects brain function and lead to symptoms such as headaches, dizziness, and confusion. This injury happens quite a bit in football and can later lead to CTE. 
+CTE short for Chronic Traumatic Encephalopathy is a brain condition believed to be linked to repeated head impacts over time. Even though CTE cannot be diagnosed in an alive person, studying concussion patterns helps better understand long-term risks associated with repeated head injuries in the NFL some symptoms include memory loss, aggression, horrible control of impulse, and more.
 ## Research Questions
 - Do concussions happen more frequently early in the season or later?
 - What team had the most concussion rates and why?
